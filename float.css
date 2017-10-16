@@ -1,0 +1,28 @@
+.contenedor{
+  background: red;
+  border: 1px solid blue;
+  overflow: hidden; /*hace que mi div no colapse y pueda poner imagenes en mi menu o color */
+  /*position: fixed; /*me deja mi contenedor fijo*/
+}
+li{
+  float: left;
+  height: 140px;
+  margin: 20px;
+}
+img{
+  width: 20%;
+  height: 20%;
+}
+.img1{
+  float: right;
+  margin: 0em 2em;
+  border: 1px solid black;
+}
+.img2{
+  float: left;
+  margin: 0em 2em;
+  border: 1px solid black;
+}
+h1{
+  text-align: center;
+}
